@@ -1,0 +1,14 @@
+form {
+    max-width: 70%;
+    margin: 26px auto 0;
+}
+
+.form-label,
+.form-check {
+    margin: 8px;
+}
+
+.button {
+    display: flex;
+    justify-content: end;
+}
